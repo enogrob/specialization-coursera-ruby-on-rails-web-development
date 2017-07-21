@@ -16,6 +16,6 @@ This Specialization covers the fundamentals of web development with Ruby on Rail
 [x] Course: Rails with Active Record and Action Pack
 [x] Course: Ruby on Rails Web Services and Integration with MongoDB
 [x] Course: HTML, CSS, and Javascript for Web Developers
-[~] Course: Single Page Web Applications with AngularJS
-[ ] Course: Photo Tourist Web Application Capstone Project
+[x] Course: Single Page Web Applications with AngularJS
+[~] Course: Photo Tourist Web Application Capstone Project
 ```
